@@ -1,2 +1,2 @@
 # GIT-pj
-Este es un projecto de prueba para enterder coomo funciona git
+Este es un projecto de prueba para enterder como funciona git
